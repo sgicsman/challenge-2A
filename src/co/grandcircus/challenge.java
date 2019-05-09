@@ -70,14 +70,3 @@ public class challenge {
 	}
 
 }
-
-//feedback for Challenge 2A:
-//
-//- took about 1 hour, 45 minutes
-//- I had to review some Java methods. :)
-//- #6: I was uncertain whether "arithmetic exception" means
-//only that the divisor = 0, or whether it also includes 
-//cases where the quotient is not a whole number (int).
-//
-//- took time to test my code
-//- I did not include the test code, or comments on my code.
